@@ -1,0 +1,5 @@
+{
+    "port": "COM17",
+    "board": "gamebuino:samd:gamebuino_meta_native",
+    "sketch": "src\\CrazyTown\\CrazyTown.ino"
+}
